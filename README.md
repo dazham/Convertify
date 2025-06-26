@@ -29,6 +29,7 @@ Extension Popup
 
 <img src="rep%20assets/popup.png" alt="Extension popup" width="200"/> <img src="rep%20assets/dropdown%20popout.png" alt="Dropdown popout" width="200"/>
 
+ ---
 
 Right-Click Context Menu
 
