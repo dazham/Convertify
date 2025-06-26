@@ -20,6 +20,8 @@ To Download :Grab the latest version from the [Releases](../../releases) tab.
  (I recommend keeping it pinned).
 
 
+---
+
 
 ## Screenshots
 
