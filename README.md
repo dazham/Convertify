@@ -11,7 +11,7 @@ A lightweight and user-friendly Chrome extension
 ---
 
 ## Getting Started
-To Download :Grab the latest version from the [Releases](../../releases) tab.
+To Download the latest version from the [Releases](../../releases) tab.
 
 1. Go to `chrome://extensions` in your Chrome browser.
 2. Enable **Developer mode** (top right).
