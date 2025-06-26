@@ -12,6 +12,7 @@ A lightweight and user-friendly Chrome extension
 
 ## Getting Started
 To Download the latest version from the [Releases](../../releases) tab.
+> ⚠️ Note: Only download `convertify-v1.0.0.zip`. Ignore the auto-generated source code files unless you're a developer.
 
 1. Go to `chrome://extensions` in your Chrome browser.
 2. Enable **Developer mode** (top right).
