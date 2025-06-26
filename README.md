@@ -40,7 +40,7 @@ Right-Click Context Menu
 
 ---
 
-## 💬 Feedback
+## Feedback
 
 Suggestions or run into issues? 
 Create an issue.
