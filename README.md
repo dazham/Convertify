@@ -23,17 +23,17 @@ To Download :Grab the latest version from the [Releases](../../releases) tab.
 
 ## 🖼️ Screenshots
 
-### 🔘 Extension Popup
+Extension Popup
 
-<img src="rep%20assets/popup.png" alt="Extension popup" width="400"/>
-
-
-### 📂 Dropdown Format Selector
-
-<img src="rep%20assets/dropdown%20popout.png" alt="Dropdown popout" width="300"/>
+<img src="rep%20assets/popup.png" alt="Extension popup" width="200"/>
 
 
-### 🖱️ Right-Click Context Menu
+Dropdown Format Selector
+
+<img src="rep%20assets/dropdown%20popout.png" alt="Dropdown popout" width="200"/>
+
+
+Right-Click Context Menu
 
 <img src="rep%20assets/ContextMenu.png" alt="Context menu" width="400"/>
 
