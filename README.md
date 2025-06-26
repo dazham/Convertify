@@ -1,22 +1,17 @@
 # 🎨 Convertify
 
 **Convert and download images in different formats easily**
-
-Convertify is a lightweight and user-friendly Chrome extension that lets you quickly convert images to popular formats like JPG, PNG, WebP, and more.
+A lightweight and user-friendly Chrome extension
+- Convert images directly from the browser
+- Download  direcly any formats through the context menu
+- PNG, JPEG, WEBP, TIFF, BMP, GIF, HEIC, SVG and ICO.
 
 > 🛠️ _This is my first ever project_.
 
 ---
 
-##  Features
-
-- Convert images directly from the browser
-- Download  direcly any formats through the context menu
-
-
----
-
 ## Getting Started
+To Download :Grab the latest version from the [Releases](../../releases) tab.
 
 1. Go to `chrome://extensions` in your Chrome browser.
 2. Enable **Developer mode** (top right).
@@ -24,44 +19,30 @@ Convertify is a lightweight and user-friendly Chrome extension that lets you qui
 4. Done! Now right-click on an image to download via Convertify or use the popup
  (I recommend keeping it pinned).
 
-
-## Download
-
-Want to try it out without building? Grab the latest version from the [Releases](../../releases) tab.
-
----
-
-## Demo
-
-Here's a quick look at Convertify in action:
-
-![Demo GIF](https://via.placeholder.com/800x450?text=GIF+Demo+Placeholder)
-
 ---
 
 ## 🖼️ Screenshots
 
-Main context menu:
+### 🔘 Extension Popup
 
-![Screenshot 1](https://via.placeholder.com/600x400?text=Context+Menu)
+<img src="rep%20assets/popup.png" alt="Extension popup" width="400"/>
 
-Conversion result:
 
-![Screenshot 2](https://via.placeholder.com/600x400?text=Conversion+Success)
+### 📂 Dropdown Format Selector
 
-Extension popup (if any):
+<img src="rep%20assets/dropdown%20popout.png" alt="Dropdown popout" width="300"/>
 
-![Screenshot 3](https://via.placeholder.com/600x400?text=Extension+Popup)
+
+### 🖱️ Right-Click Context Menu
+
+<img src="rep%20assets/ContextMenu.png" alt="Context menu" width="400"/>
 
 
 ---
-
 
 ## 💬 Feedback
 
-I'm always learning, if you have suggestions or run into issues, feel free to [open an issue](../../issues) or send me feedback.
-
----
+Suggestions or run into issues? Create an issue.
 
 
 This project is licensed under the [MIT License](LICENSE).
