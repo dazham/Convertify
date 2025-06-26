@@ -21,7 +21,7 @@ To Download :Grab the latest version from the [Releases](../../releases) tab.
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 Extension Popup
 
@@ -35,14 +35,15 @@ Dropdown Format Selector
 
 Right-Click Context Menu
 
-<img src="rep%20assets/ContextMenu.png" alt="Context menu" width="400"/>
+<img src="rep%20assets/ContextMenu.png" alt="Context menu" width="200"/>
 
 
 ---
 
 ## 💬 Feedback
 
-Suggestions or run into issues? Create an issue.
+Suggestions or run into issues? 
+Create an issue.
 
 
 This project is licensed under the [MIT License](LICENSE).
