@@ -8,7 +8,7 @@ A lightweight and user-friendly Chrome extension
 
 > 🛠️ _This is my first ever project_.
 
----
+
 
 ## Getting Started
 To Download :Grab the latest version from the [Releases](../../releases) tab.
@@ -19,7 +19,7 @@ To Download :Grab the latest version from the [Releases](../../releases) tab.
 4. Done! Now right-click on an image to download via Convertify or use the popup
  (I recommend keeping it pinned).
 
----
+
 
 ## Screenshots
 
@@ -33,7 +33,7 @@ Right-Click Context Menu
 <img src="rep%20assets/ContextMenu.png" alt="Context menu" width="500"/>
 
 
----
+
 
 ## Feedback
 
