@@ -8,7 +8,7 @@ A lightweight and user-friendly Chrome extension
 
 > 🛠️ _This is my first ever project_.
 
-
+---
 
 ## Getting Started
 To Download :Grab the latest version from the [Releases](../../releases) tab.
