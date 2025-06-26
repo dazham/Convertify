@@ -25,7 +25,7 @@ To Download :Grab the latest version from the [Releases](../../releases) tab.
 
 Extension Popup
 
-<img src="rep%20assets/popup.png" alt="Extension popup" width="200"/>
+<img src="rep%20assets/popup.png" alt="Extension popup" width="200"/> <img src="rep%20assets/dropdown%20popout.png" alt="Dropdown popout" width="200"/>
 
 
 Dropdown Format Selector
