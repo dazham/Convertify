@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Convertify by dazham",
-  "version": "1.7",
+  "version": "1.0",
   "description": "Convert images between different formats: png, jpeg, webp, ico, svg, heic, gif, bmp, tiff.",
   "action": {
     "default_popup": "popup.html",
@@ -11,7 +11,16 @@
       "128": "icon.png"
     }
   },
-  "permissions": ["storage"],
+  "permissions": [
+    "storage",
+    "contextMenus",
+    "activeTab",
+    "downloads",
+    "scripting"
+  ],
+  "background": {
+    "service_worker": "background.js" 
+  },
   "icons": {
     "16": "icon.png",
     "48": "icon.png",
