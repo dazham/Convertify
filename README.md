@@ -43,6 +43,7 @@ Right-Click Context Menu
 
 Suggestions or run into issues? 
 Create an issue.
+[Click here](https://github.com/dazham/Convertify/issues)
 
 
 This project is licensed under the [MIT License](LICENSE).
