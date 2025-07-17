@@ -1,4 +1,5 @@
 # 🎨 Convertify
+<img src="rep%20assets/popup.png" alt="Extension popup" width="200"/> <img src="rep%20assets/dropdown%20popout.png" alt="Dropdown popout" width="200"/>
 
 **Convert and download images in different formats easily**
 A lightweight and user-friendly Chrome extension
